@@ -1,0 +1,2 @@
+# Bank-Loan-Project
+Implemented classification analysis to predict binary classification to build a web  application for future predictions. • Performed data mining and data analysis to bring useful insights and trends. • Performed data mining and data cleaning, data preprocessing and feature   generation to get more information from the data. • Build multiple models and got an accuracy of 99%. • Provided comprehensive overview by in depth analysis based on historical data. • Deployment using flask.
